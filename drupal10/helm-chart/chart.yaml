@@ -1,0 +1,4 @@
+apiVersion: v2
+name: drupal-app
+description: A Drupal 10 Helm chart for Kubernetes
+version: 1.0.0
